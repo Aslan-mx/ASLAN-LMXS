@@ -1,0 +1,94 @@
+{
+  "data": {
+    "LastName": [
+      {
+        "id": 1,
+        "ico":"",
+        "name":"个人姓名:",
+        "nickname": "李明轩"
+      },
+      {
+        "id": 2,
+        "ico":"",
+        "name":"求职岗位:",
+        "nickname": "Web前端开发工程师"
+      },
+      {
+        "id": 3,
+        "ico":"",
+        "name":"工作地点:",
+        "nickname": "浙江·杭州"
+      },
+      {
+        "id": 4,
+        "ico":"",
+        "name":"我的邮箱:",
+        "nickname": "aslan_lmx@outlook.com"
+      },
+      {
+        "id": 5,
+        "ico":"",
+        "name":"手机号码:",
+        "nickname": "(+86)136-0114-4417"
+      },
+      {
+        "id": 6,
+        "ico":"",
+        "name":"我的网站:",
+        "Href":"slan-mx.top/second",
+        "nickname": "www.aslan-mx.top/first"
+      }
+    ],
+    "NavList": [
+      {
+        "id": 1,
+        "sub":"兴趣爱好",
+        "first":"运动类：篮球、羽毛球、兵乓球、足球、滑板、滑旱冰、跑步、跳绳、举重……",
+        "second":"娱乐类：听音乐、看电影、绘画、写小说、看书……",
+        "third":"冒险类：做弹弓玩、做木剑玩、做橡皮枪玩…… ",
+        "fourth":"智力类：拼图、拆装（拆小汽车、闹钟、电风扇之类的）…… ",
+        "fifth":"收藏类：收藏扑克牌、小汽车、手表、鞋之类的…… ",
+        "sixth":" 文艺类：折纸（可以尝试无限种折纸飞机的办法）、剪纸、品茶、涂鸦……"
+      },{
+        "id": 2,
+        "sub":"旅行日志",
+        "first":" 西北大环线：西宁-门源青石嘴-张掖-酒泉-嘉峪关-瓜州-敦煌-阿克赛-青海雅丹-大柴旦-德令哈-茶卡盐湖-塔尔寺",
+        "second":"湖南：长沙 > 韶山 > 衡山 > 郴州 > 资兴 > 岳阳 > 常德 > 桃源 > 武陵源区 > 张家界 > 武陵源区 > 慈利 > 永顺 > 湘西 > 吉首",
+        "third":"…… ",
+        "fourth":"…… "
+      }],
+    "SpaList":[
+      {
+        "id": 1,
+        "imgUrl":"https://cdn.img.wenhairu.com/images/2020/08/21/w4tws.jpg"
+      },{
+        "id": 2,
+        "imgUrl":"https://cdn.img.wenhairu.com/images/2020/08/21/w43rC.jpg"
+      },{
+        "id": 3,
+        "imgUrl":"https://cdn.img.wenhairu.com/images/2020/08/21/w4zRR.jpg"
+      }
+    ],
+    "TaBle":[
+      {
+        "id":1,
+        "Connect":"http://aslan-mx.top/first",
+        "Recent":"https://m.qpic.cn/psc?/V5171rVw4N6x0J2tIdjC40YwFu1IS6Ya/ruAMsa53pVQWN7FLK88i5vyqnI6pUNJj6i5OGqQriWbqGP1Kubdm9oGGxfDVDF3sCbdZRXyxHpt9LbYDquiKmcOn.hqSbanuWzwZ2wm6Nkc!/b&bo=9AEZAQAAAAACB84!&rf=viewer_4&t=5",
+        "Title":"简历",
+        "Nice":"温饱·理想·能力"
+      }, {
+        "id":2,
+        "Connect":"http://aslan-mx.top/second",
+        "Recent":"https://m.qpic.cn/psc?/V5171rVw4N6x0J2tIdjC40YwFu1IS6Ya/ruAMsa53pVQWN7FLK88i5vyqnI6pUNJj6i5OGqQriWY*v6jrGOkEK4p.eBiaaLESIsgElF*cYm8uyUJNdzz8otGlpb8Buav1IZhOdH3P0.M!/b&bo=9AEZAQAAAAACB84!&rf=viewer_4&t=5",
+        "Title":"知识点",
+        "Nice":"知识·智慧·阅读"
+      }, {
+        "id":3,
+        "Connect":"http://aslan-mx.top/third",
+        "Recent":"http://m.qpic.cn/psc?/V5171rVw4N6x0J2tIdjC40YwFu1IS6Ya/45NBuzDIW489QBoVep5mcQYD5rQZ52.KHobFWnEvL90yqMXIINweuYnnHrXFzMQqWAbY4kMer*JcTd3z8F5DA*qYfSg0ivU76LTbE*fM1HU!/b&bo=HAIiAQAAAAACh54!&rf=viewer_4&t=5",
+        "Title":"旅行",
+        "Nice":"美食·旅游·分享"
+      }
+    ]
+  }
+}

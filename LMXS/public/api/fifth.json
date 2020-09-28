@@ -1,0 +1,35 @@
+{
+  "data":{
+    "NavTest":[
+      {
+        "id":1,
+        "pict":"https://cdn.img.wenhairu.com/images/2020/08/22/wIJOo.png"
+      }, {
+        "id":2,
+        "pict":"https://cdn.img.wenhairu.com/images/2020/08/22/wICp3.png"
+      }, {
+        "id":3,
+        "pict":"https://cdn.img.wenhairu.com/images/2020/08/22/wIwqK.png"
+      }
+    ],
+    "ListItem":[
+      {
+        "id":1,
+        "size":"姓名:",
+        "text":"李明轩"
+      }, {
+        "id":2,
+        "size":"邮箱:",
+        "text":"aslan_lmx@outlook.com"
+      }, {
+        "id":3,
+        "size":"邮箱:",
+        "text":"aslan_mx@163.com"
+      }, {
+        "id":4,
+        "size":"邮箱:",
+        "text":"13830650250@163.com"
+      }
+    ]
+  }
+}
